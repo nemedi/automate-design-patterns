@@ -1,0 +1,10 @@
+demo/injector/Binding.class
+demo/injector/Binder.class
+demo/builder/Builder.class
+demo/injector/Inject.class
+demo/injector/Module.class
+demo/injector/InjectorAgent.class
+demo/builder/BuildableProcessor.class
+demo/builder/Buildable.class
+demo/injector/Injector.class
+demo/injector/InjectorClassFileTransformer.class

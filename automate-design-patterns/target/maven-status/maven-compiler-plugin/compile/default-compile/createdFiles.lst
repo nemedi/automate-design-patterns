@@ -1,0 +1,13 @@
+demo/proxy/ThrowingInterceptor.class
+demo/proxy/AfterInterceptor.class
+demo/proxy/Proxy.class
+demo/observer/PropertyChangeInterceptor.class
+demo/prototype/Cloner.class
+demo/adapter/Adapter.class
+demo/adapter/Adapter$1.class
+demo/decorator/Decorator$DecoratorHandler.class
+demo/observer/Observable.class
+demo/decorator/Decorator.class
+demo/adapter/Adapter$AdapterHandler.class
+demo/observer/ObservableFactory.class
+demo/proxy/BeforeInterceptor.class

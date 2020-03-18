@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 11
+Class-Path: javassist-3.25.0-GA.jar
+Specification-Title: automate-design-patterns-tools
+Specification-Version: 1.0
+Implementation-Title: automate-design-patterns-tools
+Implementation-Version: 1.0.0-SNAPSHOT
+Can-Redefine-Classes: false
+Can-Retransform-Classes: true
+Created-By: Maven Integration for Eclipse
+Premain-Class: demo.injector.InjectorAgent
+

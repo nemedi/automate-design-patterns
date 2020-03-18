@@ -1,0 +1,10 @@
+/Users/iulian/Documents/Trainings/Automate Desing Patterns/workspace-demo/automate-design-patterns/src/main/java/demo/observer/ObservableFactory.java
+/Users/iulian/Documents/Trainings/Automate Desing Patterns/workspace-demo/automate-design-patterns/src/main/java/demo/decorator/Decorator.java
+/Users/iulian/Documents/Trainings/Automate Desing Patterns/workspace-demo/automate-design-patterns/src/main/java/demo/proxy/BeforeInterceptor.java
+/Users/iulian/Documents/Trainings/Automate Desing Patterns/workspace-demo/automate-design-patterns/src/main/java/demo/proxy/AfterInterceptor.java
+/Users/iulian/Documents/Trainings/Automate Desing Patterns/workspace-demo/automate-design-patterns/src/main/java/demo/observer/Observable.java
+/Users/iulian/Documents/Trainings/Automate Desing Patterns/workspace-demo/automate-design-patterns/src/main/java/demo/observer/PropertyChangeInterceptor.java
+/Users/iulian/Documents/Trainings/Automate Desing Patterns/workspace-demo/automate-design-patterns/src/main/java/demo/adapter/Adapter.java
+/Users/iulian/Documents/Trainings/Automate Desing Patterns/workspace-demo/automate-design-patterns/src/main/java/demo/prototype/Cloner.java
+/Users/iulian/Documents/Trainings/Automate Desing Patterns/workspace-demo/automate-design-patterns/src/main/java/demo/proxy/ThrowingInterceptor.java
+/Users/iulian/Documents/Trainings/Automate Desing Patterns/workspace-demo/automate-design-patterns/src/main/java/demo/proxy/Proxy.java
